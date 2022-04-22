@@ -1,3 +1,4 @@
+// The top-level React component
 import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
